@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="aosp" fetch="https://android.googlesource.com" review=""/>
+  <remote name="aosp" fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP" review=""/>
   <remote name="mentor-github" fetch="git://github.com/MentorEmbedded/" review=""/>
   <remote name="xilinx-github" fetch="git://github.com/Xilinx/" review=""/>
   <default remote="aosp" revision="refs/tags/android-8.1.0_r23" sync-j="4" />
